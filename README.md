@@ -1,2 +1,2 @@
-# Classificador-Baiyeseano
-Classificador Baiyeseano
+# Classificador-Bayeseano
+Classificador Bayeseano
